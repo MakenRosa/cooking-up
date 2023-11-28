@@ -1,0 +1,452 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Laticínios e Ovos",
+            "icon": "/icons/dairy.png",
+            "ingredients": [
+                {
+                    "id": 1,
+                    "name": "Ovos"
+                },
+                {
+                    "id": 2,
+                    "name": "Leite"
+                },
+                {
+                    "id": 3,
+                    "name": "Manteiga"
+                },
+                {
+                    "id": 4,
+                    "name": "Creme de leite"
+                },
+                {
+                    "id": 5,
+                    "name": "Iogurte"
+                },
+                {
+                    "id": 6,
+                    "name": "Leite condensado"
+                },
+                {
+                    "id": 7,
+                    "name": "Sorvete"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Farinhas e Fermentos",
+            "icon": "/icons/flours.png",
+            "ingredients": [
+                {
+                    "id": 8,
+                    "name": "Canjica"
+                },
+                {
+                    "id": 9,
+                    "name": "Fermento"
+                },
+                {
+                    "id": 10,
+                    "name": "Polvilho"
+                },
+                {
+                    "id": 11,
+                    "name": "Linhaça"
+                },
+                {
+                    "id": 12,
+                    "name": "Farinha de trigo"
+                },
+                {
+                    "id": 13,
+                    "name": "Farinha de mandioca"
+                },
+                {
+                    "id": 14,
+                    "name": "Fubá"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Temperos e Especiarias",
+            "icon": "/icons/spices.png",
+            "ingredients": [
+                {
+                    "id": 15,
+                    "name": "Canela"
+                },
+                {
+                    "id": 16,
+                    "name": "Cravo"
+                },
+                {
+                    "id": 17,
+                    "name": "Orégano"
+                },
+                {
+                    "id": 18,
+                    "name": "Noz moscada"
+                },
+                {
+                    "id": 19,
+                    "name": "Tomilho"
+                },
+                {
+                    "id": 20,
+                    "name": "Pimenta do Reino"
+                },
+                {
+                    "id": 21,
+                    "name": "Cominho"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Óleos, Gorduras e Acetos",
+            "icon": "/icons/fats.png",
+            "ingredients": [
+                {
+                    "id": 22,
+                    "name": "Vinagre"
+                },
+                {
+                    "id": 23,
+                    "name": "Óleo"
+                },
+                {
+                    "id": 24,
+                    "name": "Dendê"
+                },
+                {
+                    "id": 25,
+                    "name": "Azeite de Oliva"
+                },
+                {
+                    "id": 26,
+                    "name": "Banha"
+                },
+                {
+                    "id": 27,
+                    "name": "Aceto Balsâmico"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hortaliças e Verduras",
+            "icon": "/icons/vegetables.png",
+            "ingredients": [
+                {
+                    "id": 28,
+                    "name": "Cebola"
+                },
+                {
+                    "id": 29,
+                    "name": "Alho"
+                },
+                {
+                    "id": 30,
+                    "name": "Tomate"
+                },
+                {
+                    "id": 31,
+                    "name": "Abóbora"
+                },
+                {
+                    "id": 32,
+                    "name": "Abobrinha"
+                },
+                {
+                    "id": 33,
+                    "name": "Batata"
+                },
+                {
+                    "id": 34,
+                    "name": "Pimentão"
+                },
+                {
+                    "id": 35,
+                    "name": "Cenoura"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Açúcares e Adoçantes",
+            "icon": "/icons/sugars.png",
+            "ingredients": [
+                {
+                    "id": 36,
+                    "name": "Açúcar branco"
+                },
+                {
+                    "id": 37,
+                    "name": "Stevia"
+                },
+                {
+                    "id": 38,
+                    "name": "Mel"
+                },
+                {
+                    "id": 39,
+                    "name": "Melado"
+                },
+                {
+                    "id": 40,
+                    "name": "Açúcar Mascavo"
+                },
+                {
+                    "id": 41,
+                    "name": "Baunilha"
+                },
+                {
+                    "id": 42,
+                    "name": "Xilitol"
+                },
+                {
+                    "id": 43,
+                    "name": "Glucose"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Proteínas Animais",
+            "icon": "/icons/proteins.png",
+            "ingredients": [
+                {
+                    "id": 44,
+                    "name": "Carne Bovina"
+                },
+                {
+                    "id": 45,
+                    "name": "Carne Suína"
+                },
+                {
+                    "id": 46,
+                    "name": "Frango"
+                },
+                {
+                    "id": 47,
+                    "name": "Bacon"
+                },
+                {
+                    "id": 48,
+                    "name": "Presunto"
+                },
+                {
+                    "id": 49,
+                    "name": "Calabresa"
+                },
+                {
+                    "id": 50,
+                    "name": "Peixe"
+                },
+                {
+                    "id": 51,
+                    "name": "Miúdos"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Grãos e Cereais",
+            "icon": "/icons/grains.png",
+            "ingredients": [
+                {
+                    "id": 52,
+                    "name": "Arroz"
+                },
+                {
+                    "id": 53,
+                    "name": "Feijão"
+                },
+                {
+                    "id": 54,
+                    "name": "Ervilha"
+                },
+                {
+                    "id": 55,
+                    "name": "Lentilha"
+                },
+                {
+                    "id": 56,
+                    "name": "Aveia"
+                },
+                {
+                    "id": 57,
+                    "name": "Milho"
+                },
+                {
+                    "id": 58,
+                    "name": "Grão de Bico"
+                },
+                {
+                    "id": 59,
+                    "name": "Quinoa"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Frutas Frescas",
+            "icon": "/icons/fresh-fruits.png",
+            "ingredients": [
+                {
+                    "id": 60,
+                    "name": "Banana"
+                },
+                {
+                    "id": 61,
+                    "name": "Maçã"
+                },
+                {
+                    "id": 62,
+                    "name": "Uva"
+                },
+                {
+                    "id": 63,
+                    "name": "Pêra"
+                },
+                {
+                    "id": 64,
+                    "name": "Limão"
+                },
+                {
+                    "id": 65,
+                    "name": "Morango"
+                },
+                {
+                    "id": 66,
+                    "name": "Ameixa"
+                },
+                {
+                    "id": 67,
+                    "name": "Laranja"
+                },
+                {
+                    "id": 68,
+                    "name": "Abacaxi"
+                },
+                {
+                    "id": 69,
+                    "name": "Coco"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Frutas Secas",
+            "icon": "/icons/dry-fruits.png",
+            "ingredients": [
+                {
+                    "id": 70,
+                    "name": "Castanha de Caju"
+                },
+                {
+                    "id": 71,
+                    "name": "Damasco"
+                },
+                {
+                    "id": 72,
+                    "name": "Castanha do Pará"
+                },
+                {
+                    "id": 73,
+                    "name": "Pistache"
+                },
+                {
+                    "id": 74,
+                    "name": "Nozes"
+                },
+                {
+                    "id": 75,
+                    "name": "Pinoli"
+                },
+                {
+                    "id": 76,
+                    "name": "Amendoim"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Pães e Massas",
+            "icon": "/icons/pastas.png",
+            "ingredients": [
+                {
+                    "id": 77,
+                    "name": "Pão"
+                },
+                {
+                    "id": 78,
+                    "name": "Pão Sírio"
+                },
+                {
+                    "id": 79,
+                    "name": "Tortilha"
+                },
+                {
+                    "id": 80,
+                    "name": "Macarrão"
+                },
+                {
+                    "id": 81,
+                    "name": "Nhoque"
+                },
+                {
+                    "id": 82,
+                    "name": "Lasanha"
+                },
+                {
+                    "id": 83,
+                    "name": "Broa"
+                },
+                {
+                    "id": 84,
+                    "name": "Pastel"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Doces e Guloseimas",
+            "icon": "/icons/candy.png",
+            "ingredients": [
+                {
+                    "id": 85,
+                    "name": "Doce de Leite"
+                },
+                {
+                    "id": 86,
+                    "name": "Chocolate"
+                },
+                {
+                    "id": 87,
+                    "name": "Chantily"
+                },
+                {
+                    "id": 88,
+                    "name": "Geleia"
+                },
+                {
+                    "id": 89,
+                    "name": "Goiabada"
+                },
+                {
+                    "id": 90,
+                    "name": "Caramelo"
+                },
+                {
+                    "id": 91,
+                    "name": "Gelatina"
+                }
+            ]
+        }
+    ]
+}

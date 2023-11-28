@@ -1,0 +1,21 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`TagIngredient > matches snapshot when active is false 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bczSft fmYKzU"
+  >
+    Tomato
+  </button>
+</DocumentFragment>
+`;
+
+exports[`TagIngredient > matches snapshot when active is true 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bczSft gwwmbR"
+  >
+    Tomato
+  </button>
+</DocumentFragment>
+`;
